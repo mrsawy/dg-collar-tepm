@@ -1,0 +1,13 @@
+.member-block-image-wrap img {
+  width: 100%;
+}
+
+.member-block-info p.ms-auto {
+  font-size: 11px;
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+* {
+  text-transform: capitalize;
+}
